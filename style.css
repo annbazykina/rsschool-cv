@@ -12,7 +12,6 @@ body {
     background-color: #f9f5f4;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: auto 20px;
-    
 }
 
 .clearfix:after {
@@ -29,7 +28,15 @@ body {
 .contact {
     float: right;
     margin: 40px;
+}
+
+.contact li {
     
+    list-style-type: none;
+    color: black;
+}
+.contact i {
+    margin-right: 10px;
 }
 
 .contact a {
@@ -37,7 +44,7 @@ body {
     color: black;
 }
 
-.mail {
+.about {
     margin: 10px 0;
 }
 
@@ -48,6 +55,28 @@ body {
 
 .profile-foto img {
     border-radius: 50%;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.git {
+    text-decoration: none;
+    color: black;
+}
+.footer span {
+    margin: 50px;
+}
+
+pre {
+    margin: auto;
+}
+.work-example a {
+    text-decoration: none;
+    color: black;
 }
 
 
