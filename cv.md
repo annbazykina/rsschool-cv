@@ -7,7 +7,12 @@
 
 *2008-2013 - Donetsk National University of Economics and Trade*  
 
-*2022-2023 - course FrontEnd/JavaScript NixSolutions*  
+*2022-2023 - course FrontEnd/JavaScript NixSolutions*   
 
+### Languages
+
+*Ukrainian Native*   
+
+*English Intermediate*
 
 
