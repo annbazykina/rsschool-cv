@@ -10,6 +10,7 @@
     - Improve communication skills
     - Improve financial managment skills 
     - Develop time managment skills
+    - Increase productivity, job satisfaction, and overall performance
     - You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
 learning new things from everywhere etc.
 4. Skills:
