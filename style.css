@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #3146B5;
+    
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+    color: #DCDAD3;
+}
+
+.nav-link {
+    color: #DCDAD3;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.container-main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left-section {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    background-color: #3146B5;
+    color: #DCDAD3;
+    padding-bottom: 15px;
+}
+
+.main-logo {
+    width: 100%;
+    height: 100%;
+}
+
+.right-section {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: #D8D8D8;
+    color: #3146B5;
+    padding-bottom: 15px;
+}
+
+.section.border {
+    border-bottom: 4px solid #3146B5;
+    padding-bottom: 15px;
+}
+
+.section-header {
+    padding: 30px;
+}
+
+.section > p {
+    padding: 0 20px;
+    padding-left: 30px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+/* contact section */
+.contact-item a {
+    text-decoration: none;
+    color: #DCDAD3;
+}
+
+/* section code */
+
+.section-code {
+    padding: 0 30px;
+}
+
+/* section projects */
+
+.projects-item a {
+    text-decoration: none;
+    color: #3146B5;
+}
+
+.projects-item a:hover {
+    text-decoration: underline;
+}
+
+/*  footer  */
+
+.footer {
+    background-color: #D8D8D8;
+}
+
+.personal-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+}
+
+.personal-item {
+    list-style: none;
+    color: #3146B5;
+}
+
+.footer-img {
+    width: 40px;
+    height: 20px;
+    background-position: center;
+}
+
+.personal-link {
+    color: #DCDAD3;
+    line-height: 50px;
+    text-decoration: none;
+    color: #3146B5;
+}
+
+.personal-link:hover {
+    text-decoration: underline;
+}
